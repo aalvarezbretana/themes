@@ -7,7 +7,7 @@ get_header()
 </div>
 
 <div id = "imagen">
-    <img src="<?php echo get_stylesheet_directory_uri();?>/home/dam2a/Imágenes/imagenes/totoro.jpg">
+    <img src="<?php echo get_stylesheet_directory_uri();?>/imagenes/rengoku.png">
 </div>
 
 <div id = "google">
