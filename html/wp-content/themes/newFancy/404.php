@@ -6,6 +6,9 @@ get_header()
     <h1>Error en la página</h1>
 </div>
 
+<div id = "imagen">
+    <img src="<?php echo get_stylesheet_directory_uri();?>/imagenes/totoro.jpg">
+</div>
 
 <div id = "google">
 
