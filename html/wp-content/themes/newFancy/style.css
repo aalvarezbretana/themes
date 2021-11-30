@@ -33,7 +33,10 @@ body{
     background-color: white;
     border: 2px solid #ffffff;
 }
-
+#imagen {
+    position: relative;
+    left: 500px;
+}
 
 #google{
     background-color: white ;
